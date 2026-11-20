@@ -1,3 +1,3 @@
-# calc_imc
-
-A new Flutter project.
+# Integrantes do Projeto
+- Enzo Santiago de Souza
+- Bruno Hideki de Oka Souza
